@@ -1,4 +1,4 @@
-package study.santoliver.spring_impl_mvc;
+package study.santoliver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

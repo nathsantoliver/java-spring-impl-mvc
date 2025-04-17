@@ -1,13 +1,13 @@
-package study.santoliver.spring_impl_mvc;
+package study.santoliver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringImplMvcApplication {
+public class Main {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringImplMvcApplication.class, args);
+		SpringApplication.run(Main.class, args);
 	}
 
 }

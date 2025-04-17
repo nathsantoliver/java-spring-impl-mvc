@@ -12,7 +12,10 @@
 	<artifactId>spring-impl-mvc</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-impl-mvc</name>
-	<description>Demo project for Spring Boot</description>
+	<description>
+		Java Spring project related to the eighth chapter of the book Spring Start Here,
+		about web apps.
+	</description>
 	<url/>
 	<licenses>
 		<license/>
